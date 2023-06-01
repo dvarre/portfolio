@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Dimitri Varré
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,32 +10,33 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙃
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I love talking to people about crazy projects !
 
 #interests:
+#- Video Game
+#- Mobile application
 #- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Mastery in video games
+#    institution: Université du Québec à Chicoutimi
+#    year: 2022-2023
+#  - course: IT project management
+#    institution: Université du Québec à Chicoutimi
+#    year: 2022-2023
+#  - course: IT project management
+#    institution: Groupe 3iL
+#    year: 2021-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,17 +45,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:varre.dimitri@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/dimitri-varr%C3%A9/
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://instagram.com/geocushen
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dvarre
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +67,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I am a french informatic engeneer studient who has decided to go to Québec for his last study year. I decided to do this in order to learn 
+a lot in video games development. Indeed, since I discovered that I love informatic sciences, I wanted to learn a lot in all of domains.
+This was a great opportunities to go to this foreign University and I learned so much by the culture or the education over there.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

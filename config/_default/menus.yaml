@@ -16,7 +16,7 @@ main:
   - name: Research
     url: research/
     weight: 40
-  - name: ai
+  - name: AI
     url: ai/
     weight: 50
     
