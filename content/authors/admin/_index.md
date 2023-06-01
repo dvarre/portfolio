@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dimitri Varré
+title: Dimitri Varre
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +45,7 @@ bio: I love talking to people about crazy projects !
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:varre.dimitri@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dimitri-varr%C3%A9/
