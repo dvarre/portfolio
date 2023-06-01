@@ -48,7 +48,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/dimitri-varr%C3%A9/
+    link: "https://www.linkedin.com/in/dimitri-varr%C3%A9/"
 #  - icon: instagram
 #    icon_pack: fab
 #    link: https://instagram.com/geocushen
